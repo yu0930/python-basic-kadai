@@ -1,1 +1,6 @@
+zyouhen = 10
+kahen = 20
+takasa = 5
 
+print(f"{(zyouhen+kahen)*takasa/2}㎠")
+print(f"({zyouhen}+{kahen})×{takasa}÷2")
